@@ -77,6 +77,14 @@ This will create the SQL Server database with the `Students` table.
 
 Press `F5` or click on **IIS Express** to run the application.
 
+## 📱 Screenshots
+
+![Index](https://github.com/user-attachments/assets/0e10f63f-8bf7-4601-8d5f-84d92f98c629)
+![Create](https://github.com/user-attachments/assets/cc8eff14-95eb-45e8-9327-ff0bb7ce3fca)
+![Edit](https://github.com/user-attachments/assets/43f8645f-3649-41f8-921e-558885bc3a0e)
+![Details](https://github.com/user-attachments/assets/cd6253b0-30f5-47c7-8709-b91a2bcd57bd)
+![Delete](https://github.com/user-attachments/assets/bf3b4a3a-12e5-4bda-8f0b-5a2fe9c0990b)
+
 ## 📌 Notes
 
 - Ensure SQL Server / SQL Server Express is installed and running.
