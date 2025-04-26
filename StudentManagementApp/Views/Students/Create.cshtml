@@ -76,7 +76,7 @@
 
             @using (Html.BeginForm())
             {
-                @Html.AntiForgeryToken()
+                @Html.AntiForgeryToken() // Save from CSRF attack , check if this same website request (same user)
 
                 <div class="form-group mb-3 md-0 ms-md-4">
                     @Html.LabelFor(model => model.Name)
