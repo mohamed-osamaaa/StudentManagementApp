@@ -115,7 +115,7 @@ namespace StudentManagementApp.Controllers
             return RedirectToAction("Index");
         }
 
-        protected override void Dispose(bool disposing)//as close DB to avoud leak in DB as lecture
+        protected override void Dispose(bool disposing)
         {
             if (disposing)
             {
